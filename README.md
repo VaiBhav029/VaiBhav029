@@ -1,10 +1,10 @@
 ### Hi there, I'm Vaibhav - 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
-[![instagram](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=instagram&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![twitter](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![instagram](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=instagram&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=shetty_vaibhav7)
 ## I'm a Student, Developer, and Learner!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🔭 I just launched my first course: [Become A VS Code SuperHero!]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -12,7 +12,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Vaibhav Spotify Playing" width="350" />](https://open.spotify.com/track/287MCV3nrus4yqrVgq8rAK?si=a2692cd1feb44f74)
 
 ### Connect with me:
 
@@ -47,7 +47,7 @@
 
 
 
-[twitter]: https://twitter.com/codeSTACKr
+[twitter]: https://twitter.com/Vaibhav22722605
 [instagram]: https://instagram.com/shetty_vaibhav7
 [linkedin]: https://linkedin.com/in/codeSTACKr
 
