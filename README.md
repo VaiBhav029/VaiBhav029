@@ -1,17 +1,19 @@
 ### Hi there, I'm Vaibhav Shetty - 👋
 
 [![twitter](https://img.shields.io/twitter/follow/Vaibhav22722605?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=Vaibhav22722605)
-## I'm a Student, Developer, and Learner!!
+## I'm a Corporate Mazdoor, Developer, and Learner!!
 
 - 🔭 I'm Lazy ! Yeah I copied and edited this Readme
 - 🌱 I’m currently not learning anything 🤣
 - 👯 Like to Play Games
 - 🥅 2021 Goals: Survive
-- ⚡ You can check out my Repo
+- ⚡ You can check out my Repos
 
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Vaibhav Spotify Playing" width="350" />](https://open.spotify.com/embed/track/287MCV3nrus4yqrVgq8rAK)]
+
+[<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3bmsaFp11I9pbicxzlStf3?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>]
 
 ### Connect with me:
 
