@@ -11,7 +11,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Vaibhav Spotify Playing" width="350" />](https://open.spotify.com/embed/track/287MCV3nrus4yqrVgq8rAK)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Vaibhav Spotify Playing" width="350" />](https://open.spotify.com/embed/track/287MCV3nrus4yqrVgq8rAK)]
 
 ### Connect with me:
 
