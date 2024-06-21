@@ -3,17 +3,11 @@
 [![twitter](https://img.shields.io/twitter/follow/Vaibhav22722605?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=Vaibhav22722605)
 ## I'm a Corporate Mazdoor, Developer, and Learner!!
 
-- 🔭 I'm Lazy ! Yeah I copied and edited this Readme
-- 🌱 I’m currently not learning anything 🤣
-- 👯 Like to Play Games
-- 🥅 2021 Goals: Survive
-- ⚡ You can check out my Repos
-
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Vaibhav Spotify Playing" width="350" />](https://open.spotify.com/track/3bmsaFp11I9pbicxzlStf3)]
+[<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANUAAACUCAMAAAAzmpx4AAAAaVBMVEX///8AAAD39/eFhYX6+vrv7+/c3NxlZWXy8vLZ2dmSkpLo6OgzMzPR0dG8vLxxcXGioqK1tbU5OTnLy8tPT0/CwsJra2tKSkp5eXlXV1cmJiZAQEBfX1+oqKgsLCyYmJgLCwsYGBgfHx9L9nU4AAADnUlEQVR4nO3a25KjIBAGYBEVDR6CRsV4zvs/5KKJ2YQwWzW7Om5S/3eZmRJasGlEywIAAAAAAAAA+BmOb1ku37sXK+N9IrIiPe7dj3X1hJCQkMHbuyNrsimZjdHePVlVe40q3bsf67oNVr53P1bmJiqofu9erM5l5MMy4Mz9rEwBAAAAAP8b59Nej0zybgw/Yh+XyyQpCtZUp7Kup91pGXlPgiCIbjIlnolZe7zqlQO9kVIm7Kqp1FXTWRieL+NAXlVbBMUrQ0u6YRjG8XK5nJUuVNK0npTKaVJVVTO7RlMUyZW8oXcHengmtojKyemDVIVQi/wqu1vGKlg8DCV/4s78G9u2ndkWPf8z+0FUkTD7+S58Bs4SNXxtk1lHuVETrgimiRjzLI/sjdrQCHmOREDbJK7PGzUhKQvirGRHEab+Rm3ogjDKXC5j3tYbtVD7iWh5UOVWvUk+MmhpesyiU51b8WZR2Y1n+Z2wcrJRCy84k7yPJTvYYpPlShHjIWK0Psf9t59cn8eUFVJ4PzVzv0F1ybEc3/G/2TcnTpZluhHuNn37cVw+FkAs2Ls/qwi0Uqv+hKrYO+nFYvf+RYmf6EGpYv/t92bCVNq/HEZdSxX+h6PfXU9F9KLbLm+BUJUxTnIJSyu43AOd0ipl5ovyKBPlLidYyVRuuKzVfg5uYYy+yhktX6LSahO1d0vVw9aEpit7RTfn0HiTfnOu7rDbD+bMTKRalgg5aINFlwzhNI9RaYWCW6jfEpeZouKnrg14VMp2i4ra6cfGjdKS9MatHZF8ml9Ua7q8RzWNlbtEdXn+r/nkl6QX0zl9Rqbb6HCH6PNgFU6gtuQ9/6KwJfUcgB7V8EVUz//mzg/cYPz6wAvjOVX4W50Nu6T5slZakoJt/JmEU1RH/x7V83XmsQrzyjQDnYj3VeDlbNxmmQvOFS3syjy9SdIOhqjO96hOj1FpW0BfjVXhW8y8M1SP6zi+ZJiV9Gdp2XQk1PhXlS04G4jUBnNZg8PpCTvaS1TaVLNpN2U4+sVuI2bc2+orJn+utr2DeRLOwbalHtWyCA9C3e3iviTrdybjv1sw2K0WEXPC9/S0f8/lz978+zGHmoI67d2tf+V1hqjef4slXt+ZH3d4Rbsy56gHRT9hk+9om5H+P3wj8zeC8ndM5w/6fCyQddh1Yc3ef3P/jEfRm69SAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACwvV+5xTClIFXTdQAAAABJRU5ErkJggg==" alt="Vaibhav Spotify Playing" width="350" />](https://open.spotify.com/track/3bmsaFp11I9pbicxzlStf3)]
 
-[<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3bmsaFp11I9pbicxzlStf3?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>]
+
 
 ### Connect with me:
 
